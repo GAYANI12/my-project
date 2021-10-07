@@ -1,3 +1,5 @@
-value = 10
+from van import van
+
+van = van("A")
 print('hello')
-print('value')
+print('van.value')
